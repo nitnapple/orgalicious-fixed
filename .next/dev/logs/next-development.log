@@ -1,0 +1,10 @@
+{"timestamp":"00:00:01.645","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:08:16.628","source":"Server","level":"LOG","message":"✓ Compiled in 407ms"}
+{"timestamp":"00:09:13.735","source":"Server","level":"LOG","message":"✓ Compiled in 60ms"}
+{"timestamp":"00:13:45.989","source":"Server","level":"LOG","message":"✓ Compiled in 225ms"}
+{"timestamp":"00:14:22.204","source":"Server","level":"LOG","message":"✓ Compiled in 60ms"}
+{"timestamp":"00:18:43.138","source":"Server","level":"LOG","message":"✓ Compiled in 71ms"}
+{"timestamp":"00:19:55.432","source":"Server","level":"LOG","message":"✓ Compiled in 70ms"}
+{"timestamp":"00:19:59.152","source":"Browser","level":"WARN","message":"Image with src \"/brochure-pages/page-12.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"00:19:59.168","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/brochure-pages/page-12.png\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
+{"timestamp":"00:19:59.168","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"/brochure-pages/page-12.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\u001b[39m"}
